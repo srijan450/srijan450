@@ -99,7 +99,7 @@ Full MERN Task Management System:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srijan450&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srijan450&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=srijan450&theme=tokyonight)
 
